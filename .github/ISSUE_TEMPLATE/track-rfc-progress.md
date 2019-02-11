@@ -1,20 +1,26 @@
 ---
 name: Track RFC Progress
 about: This issue template should be completed to track an RFC from emberjs/rfcs
-title: 'Tracking for RFC #0001'
+title: 'Tracking for {{RFC Description}} RFC #0001 '
 labels: ''
 assignees: ''
 
 ---
 
-### Tracking for [RFC #0001](emberjs/rfcs#0001)
+### Tracking for {{RFC Description}} [RFC #0001](emberjs/rfcs#0001)
 
 Champion:
 
-Framework team:
+---
 
-Data team:
+> All teams need to consider a merged RFC to plan any required work. Each team should comment on or edit this with links to issues for the work (or a note to the effect of "No work required"). 
 
-CLI team:
+### Ember.js:
 
-Learning Team:
+### Ember CLI:
+
+### Ember Data:
+
+### Learning:
+
+### Steering:
