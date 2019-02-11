@@ -7,20 +7,20 @@ assignees: ''
 
 ---
 
-### Tracking for {{RFC Description}} [RFC #0001](emberjs/rfcs#0001)
+### Tracking for {{RFC Description}} [RFC #0000](https://github.com/emberjs/#0000)
 
-Champion:
+Champion: {{@-champion-}}
 
 ---
 
 > All teams need to consider a merged RFC to plan any required work. Each team should comment on or edit this with links to issues for the work (or a note to the effect of "No work required"). 
 
-### Ember.js:
+### Ember.js team:
 
-### Ember CLI:
+### Ember CLI team:
 
-### Ember Data:
+### Ember Data team:
 
-### Learning:
+### Learning team:
 
-### Steering:
+### Steering Committee:
